@@ -1,4 +1,4 @@
-Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls_per_90s_per_90s,Ast_per_90s,G+A_per_90s,G-PK_per_90s,PK,PKatt,CrdY,CrdR,xG_per_90s,npxG_per_90s,xAG_per_90s,npxG+xAG_per_90s,PrgC,PrgP,PrgR,Gls_per_90s_per_90s,Ast_per_90s,G+A_per_90s,G-PK_per_90s,G+A-PK_per_90s,xG_per_90s,xAG_per_90s,xG+xAG_per_90s,npxG_per_90s,npxG+xAG_per_90s
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls_per_90s,Ast_per_90s,G+A_per_90s,G-PK_per_90s,G+A-PK_per_90s,xG_per_90s,xAG_per_90s,xG+xAG_per_90s,npxG_per_90s,npxG+xAG_per_90s
 Gregor Kobel,SUI,GK,27-151,45,45,"4,035",44.8,0,0,0,0,0,0,1,0,0.0,0.0,0.0,0.0,0,1,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
 Serhou Guirassy,GUI,FW,29-055,43,40,"3,627",40.3,32,8,40,25,7,9,6,0,33.4,26.3,6.3,32.6,34,66,176,0.79,0.20,0.99,0.62,0.82,0.86,0.16,1.02,0.67,0.84
 Pascal Groß,GER,"MF,DF",33-325,44,39,"3,370",37.4,1,12,13,1,0,0,7,1,4.2,4.2,8.2,12.4,52,234,165,0.03,0.32,0.35,0.03,0.35,0.12,0.23,0.35,0.12,0.35
